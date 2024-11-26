@@ -33,4 +33,4 @@ This project implements a Speech Emotion Recognition system using Python. The sy
 The dataset is automatically downloaded using `kagglehub`.
 
 ## Contact
-For questions or feedback, please contact: [Your Email]
+For questions or feedback, please contact: arunkumarkudikala@gmail.com
